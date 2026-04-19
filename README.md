@@ -1,5 +1,4 @@
-# ISO_PROJECT_2
-Lab project completed
+# LAB_ISO_PROJECT_2
 Derman Dilara Arslan - 202428005
 Compilation Instructions: Open terminal and navigate to project folder. Then run: javac Main.java gui/.java model/.java
 Run Instructions: After compilation, run java Main class.
