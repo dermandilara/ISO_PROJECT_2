@@ -1,0 +1,42 @@
+PROJECT REQUIREMENTS: 
+Functional Requirements:
+- The system shall allow the user to enter profile information (username, school, session name).
+- The system shall allow the user to select one quality type (Product or Process).
+- The system shall allow the user to select one mode (Education, Health, or Custom).
+- The system shall display scenarios based on the selected mode.
+- The system shall display predefined dimensions and metrics in a table.
+- The system shall calculate metric scores between 1 and 5.
+- The system shall compute weighted averages for each dimension.
+- The system shall perform gap analysis and identify the lowest scoring dimension.
+
+Non-Functional Requirements:
+- The system shall provide a user-friendly graphical interface.
+- The system shall validate user inputs and display meaningful error messages.
+- The system shall be implemented using Java Swing.
+- The system shall follow MVC design principles.
+- The system shall run without external libraries.
+
+
+PROJECT DESIGN:
+Architecture:
+The application is designed using the MVC (Model-View-Controller) pattern.
+- Model: Metric, Dimension, Scenario classes store data and logic.
+- View: GUI components such as JFrame and JPanel represent the interface.
+- Controller: Action listeners handle user interactions.
+
+Design Pattern:
+- CardLayout is used to implement a wizard-like step-by-step interface.
+- MVC pattern is used to separate logic and UI.
+
+Class Design:
+- Metric: Represents a measurement with value, range, and score.
+- Dimension: Groups multiple metrics and calculates weighted score.
+- Scenario: Contains predefined dimensions and metrics.
+- MainFrame: Main window of the application.
+- Step Panels: Separate JPanel classes for each step.
+
+Data Structures:
+- ArrayList is used to store lists of metrics and dimensions.
+- HashMap is used to manage scenario data.
+
+
