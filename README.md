@@ -10,6 +10,10 @@ For screenshots of the application, links are below:
 
 <img width="1779" height="830" alt="Ekran görüntüsü 2026-04-18 191328" src="https://github.com/user-attachments/assets/fc38b993-dde8-4cf7-ab53-f5f8d298aa9f" />
 
+
+<img width="1588" height="868" alt="image" src="https://github.com/user-attachments/assets/36152c6e-a427-4997-88aa-dccc7f157b58" />
+
+
 <img width="1727" height="763" alt="Ekran görüntüsü 2026-04-18 191338" src="https://github.com/user-attachments/assets/d71b3e2e-fff0-47f5-a27b-9b5d065d1b79" />
 
 <img width="1730" height="777" alt="Ekran görüntüsü 2026-04-18 191347" src="https://github.com/user-attachments/assets/6cd859b4-e52b-43ba-b859-d5400bd0cc7d" />
